@@ -1,5 +1,5 @@
 <h1 align="center">Hey!👋, I'm DesertPapi </h1>
-<h4 align="center">Coding is my passion. When I'm not fixing bugs or sipping coffee, I'm dreaming up the next big thing. Say hi! 🚀</h4>
+<h4 align="center">Cybersecurity is my passion.  Say hi! 🚀</h4>
 
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
@@ -40,9 +40,6 @@
     <img src="https://skillicons.dev/icons?i=python,django,flask,fastapi,js,react,flutter,mysql,postgresql,sqlite,docker,heroku,azure,git,postman,arduino&perline=9&theme=dark" />
   </a>
 </p>
-
-# Holopin Profile Board
-[![An image of @DesertPapi's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/DesertPapi)](https://holopin.io/@DesertPapi)
 
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=DesertPapi&show_icons=true&locale=en&layout=compact&theme=dark" alt="DesertPapi" />
