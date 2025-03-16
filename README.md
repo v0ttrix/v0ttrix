@@ -20,7 +20,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,python,docker,azure,git,arduino,kali,ubuntu,unity&perline=9&theme=tokyonight" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,python,docker,azure,git,arduino,kali,ubuntu,unity&perline=9&theme=dark" />
   </a>
 </p>
 
@@ -31,5 +31,5 @@
 </p>
 
 <p>
-  &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=DesertPapi&show_icons=true&locale=en&theme=dark" alt="DesertPapi" />
+  &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=DesertPapi&show_icons=true&locale=en&theme=tokyonight" alt="DesertPapi" />
 </p>
