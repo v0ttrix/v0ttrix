@@ -24,11 +24,12 @@
   </a>
 </p>
 
-<p align="center">
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=JGreyScales&theme=dark"/></a>
-  <a> <img src="https://github-readme-stats.vercel.app/api?username=JGreyScales&theme=dark"/></a>
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=DesertPapi&show_icons=true&locale=en&layout=compact&theme=dark" alt="DesertPapi" />
 </p>
 
-<p>
-  &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=DesertPapi&show_icons=true&locale=en&theme=dark" alt="DesertPapi" />
+</p>
+<p align="center">
+ <a> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DesertPapi&langs_count=7&theme=tokyonight"/></a>
+
 </p>
