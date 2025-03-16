@@ -20,13 +20,13 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,python,docker,azure,git,arduino,kali,ubuntu,unity&perline=9&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,python,docker,azure,git,arduino,kali,ubuntu,unity&perline=9&theme=tokyonight" />
   </a>
 </p>
 
 </p>
 <p align="center">
- <a> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DesertPapi&langs_count=7&theme=dark"/></a>
+ <a> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DesertPapi&langs_count=7&theme=tokyonight"/></a>
 
 </p>
 
