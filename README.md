@@ -25,7 +25,7 @@
 </p>
 
 </p>
-<p align="center">
+<p align="left">
  <a> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DesertPapi&langs_count=7&theme=tokyonight"/></a>
 
 </p>
