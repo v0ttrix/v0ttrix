@@ -3,8 +3,6 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=DesertPapi&label=Profile%20views&color=0e75b6&style=flat" alt="DesertPapi" />
 </p>
