@@ -15,7 +15,7 @@
 - 🌱 Ask me anything
 - 🌱 I’m currently learning more
 - 📫 Let's connect **[LinkedIn](https://www.linkedin.com/in/jaden-mardini-783b1a1ba/)**
-- ⚡ Cybersecurity 
+- ⚡ Computer Engineering Diploma
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
