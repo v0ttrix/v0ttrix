@@ -18,6 +18,6 @@
 -----------------------
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,cpp,rust,python,linux,windows,c,discord,git,github,postman,raspberrypi,tauri,ubuntu,vscode,visualstudio,wordpress&perline=9&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=cpp,python,linux,windows,c,git,github,ubuntu,vscode,visualstudio,wordpress,arduino&perline=9&theme=dark" />
   </a>
 </p>
