@@ -4,7 +4,7 @@
 </div>
 
 <h1 align="center">Hey!👋, I'm Jaden </h1>
-<h4 align="center">Cybersecurity is my passion.  Say hi! 🚀</h4>
+<h4 align="center">Hit me up say hi! 🚀</h4>
 
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
