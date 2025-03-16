@@ -24,7 +24,11 @@
   </a>
 </p>
 
-//////
+</p>
+<p align="center">
+ <a> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JGreyScales&langs_count=7&theme=tokyonight"/></a>
+
+</p>
 
 <p>
   &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=DesertPapi&show_icons=true&locale=en&theme=dark" alt="DesertPapi" />
