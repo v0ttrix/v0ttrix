@@ -20,7 +20,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,python,java,docker,azure,git,autocad,arduino,mysql,kali,ubuntu,unity,powershell,wordpress,linux,windows,apple,visualstudio,vscode&perline=9&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,python,js,html,css,docker,azure,git,autocad,arduino,mysql,kali,ubuntu,unity,powershell,wordpress,linux,windows,apple,visualstudio,vscode&perline=9&theme=dark" />
   </a>
 </p>
 
