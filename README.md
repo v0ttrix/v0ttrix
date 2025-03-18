@@ -9,7 +9,7 @@
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=DesertPapi&label=Profile%20views&color=0e75b6&style=flat" alt="DesertPapi" />
+  <img src="https://komarev.com/ghpvc/?username=vottrix&label=Profile%20views&color=0e75b6&style=flat" alt="vottrix" />
 </p>
 
 - 🌱 Ask me anything
@@ -26,10 +26,10 @@
 
 </p>
 <p align="left">
- <a> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DesertPapi&langs_count=7&theme=tokyonight"/></a>
+ <a> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vottrix&langs_count=7&theme=tokyonight"/></a>
 
 </p>
 
 <p>
-  &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=DesertPapi&show_icons=true&locale=en&theme=tokyonight" alt="DesertPapi" />
+  &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vottrix&show_icons=true&locale=en&theme=tokyonight" alt="vottrix" />
 </p>
