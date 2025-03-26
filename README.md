@@ -18,7 +18,7 @@
 - ⚡ Computer Engineering Diploma
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left" style="margin-top: -10px; margin-bottom: 0px;">
+<p align="left" style="margin-top: -40px; margin-bottom: 0px;">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=c,cs,cpp,python,java,js,html,css,mysql,docker,azure,git,autocad,arduino,kali,ubuntu,unity,powershell,wordpress,linux,windows,apple,visualstudio,vscode,clion&perline=9&theme=dark" />
   </a>
