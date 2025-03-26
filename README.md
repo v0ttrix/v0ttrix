@@ -17,7 +17,7 @@
 - 📫 Let's connect **[LinkedIn](https://www.linkedin.com/in/jaden-mardini-783b1a1ba/)**
 - ⚡ Computer Engineering Diploma
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left" style="margin-bottom: 5px;">Languages and Tools:</h3>
 <p align="left" style="margin-top: 0px; margin-bottom: 0px;">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=c,cs,cpp,python,java,js,html,css,mysql,docker,azure,git,autocad,arduino,kali,ubuntu,unity,powershell,wordpress,linux,windows,apple,visualstudio,vscode,clion&perline=9&theme=dark" />
