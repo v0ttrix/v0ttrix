@@ -6,8 +6,10 @@
 <h1 align="center">Hey!👋, I'm Jaden </h1>
 <h4 align="center">Hit me up say hi! 🚀</h4>
 
-<!-- Coding GIF with left margin for spacing -->
-<img align="right" alt="Coding" width="400" style="margin-left: 20px;" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<!-- Wrap image in a padded container for spacing -->
+<div align="right" style="padding-left: 30px;">
+  <img alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+</div>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=vottrix&label=Profile%20views&color=0e75b6&style=flat" alt="vottrix" />
