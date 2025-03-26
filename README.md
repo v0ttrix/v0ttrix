@@ -18,9 +18,9 @@
 - 📫 Let's connect **[LinkedIn](https://www.linkedin.com/in/jaden-mardini-783b1a1ba/)**  
 - ⚡ Computer Engineering Diploma  
 
-<!-- Heading and tighter spacing using a <div> -->
-<h3 align="left" style="margin-bottom: 2px;">Languages and Tools:</h3>
-<div align="left" style="margin-top: -18px;">
+<!-- Languages and Tools: heading and icons together in one block -->
+<div align="left">
+  <h3 style="margin-bottom: 4px;">Languages and Tools:</h3>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=c,cs,cpp,python,java,js,html,css,mysql,docker,azure,git,autocad,arduino,kali,ubuntu,unity,powershell,wordpress,linux,windows,apple,visualstudio,vscode,clion&perline=9&theme=dark" />
   </a>
