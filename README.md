@@ -6,8 +6,8 @@
 <h1 align="center">Hey!👋, I'm Jaden </h1>
 <h4 align="center">Hit me up say hi! 🚀</h4>
 
-<!-- Wrap image in a padded container for spacing -->
-<div align="right" style="padding-left: 30px;">
+<!-- Coding GIF with smaller left padding for spacing -->
+<div align="right" style="padding-left: 10px;">
   <img alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 </div>
 
