@@ -7,7 +7,7 @@
 <h4 align="center">Hit me up say hi! 🚀</h4>
 
 <!-- Coding GIF with smaller left padding for spacing -->
-<div align="right" style="padding-left: 5px;">
+<div align="right" style="padding-left: 1px;">
   <img alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 </div>
 
