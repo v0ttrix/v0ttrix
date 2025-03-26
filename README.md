@@ -7,7 +7,7 @@
 <h4 align="center">Hit me up say hi! 🚀</h4>
 
 <!-- Former header GIF now on the right -->
-<img align="1000" alt="Coding" width="170" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif">
+<img align="right" alt="Coding" width="170" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif">
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=vottrix&label=Profile%20views&color=0e75b6&style=flat" alt="vottrix" />
