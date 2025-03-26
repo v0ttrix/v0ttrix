@@ -6,16 +6,17 @@
 <h1 align="center">Hey!👋, I'm Jaden </h1>
 <h4 align="center">Hit me up say hi! 🚀</h4>
 
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<!-- Coding GIF with left margin for spacing -->
+<img align="right" alt="Coding" width="400" style="margin-left: 20px;" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=vottrix&label=Profile%20views&color=0e75b6&style=flat" alt="vottrix" />
 </p>
 
-- 🌱 Ask me anything
-- 🌱 I’m currently learning more
-- 📫 Let's connect **[LinkedIn](https://www.linkedin.com/in/jaden-mardini-783b1a1ba/)**
-- ⚡ Computer Engineering Diploma
+- 🌱 Ask me anything  
+- 🌱 I’m currently learning more  
+- 📫 Let's connect **[LinkedIn](https://www.linkedin.com/in/jaden-mardini-783b1a1ba/)**  
+- ⚡ Computer Engineering Diploma  
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
