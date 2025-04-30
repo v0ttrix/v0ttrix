@@ -3,8 +3,8 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250"/>
 </div>
 
-<h1 align="center">Hey!👋, I'm Jaden </h1>
-<h4 align="center">Hit me up say hi! 🚀</h4>
+<h1 align="center">Hey!👋 </h1>
+<h4 align="center">Hit me up if you have any questions! 🚀</h4>
 
 <!-- Former header GIF now on the right -->
 <img align="right" alt="Coding" width="170" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif">
@@ -12,8 +12,7 @@
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=vottrix&label=Profile%20views&color=0e75b6&style=flat" alt="vottrix" />
 </p>
-
-- 🌱 Ask me anything  
+  
 - 🌱 I’m currently learning more  
 - 📫 Let's connect **[LinkedIn](https://www.linkedin.com/in/jaden-mardini-783b1a1ba/)**  
 - ⚡ Computer Engineering Diploma  
