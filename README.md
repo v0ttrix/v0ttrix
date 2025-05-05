@@ -4,7 +4,7 @@
 </div>
 
 <h1 align="center">Hey!👋 </h1>
-<h4 align="center">Hit me up if you have any questions! 🚀</h4>
+<h4 align="center">Hit me up if you have any questions or need help with a repo! 🚀</h4>
 
 <!-- Former header GIF now on the right -->
 <img align="right" alt="Coding" width="170" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif">
