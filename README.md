@@ -13,7 +13,7 @@
   <img src="https://komarev.com/ghpvc/?username=vottrix&label=Profile%20views&color=0e75b6&style=flat" alt="vottrix" />
 </p>
   
-- 🌱 I’m currently learning more  
+- 🌱 I’m currently working on workshops
 - 📫 Let's connect **[LinkedIn](https://www.linkedin.com/in/jaden-mardini-783b1a1ba/)**  
 - ⚡ Computer Engineering Diploma  
 
