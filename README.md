@@ -1,4 +1,3 @@
-<!-- Coding GIF now at the top -->
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250"/>
 </div>
@@ -6,7 +5,6 @@
 <h1 align="center">Hey!👋 </h1>
 <h4 align="center">Hit me up if you have any questions or need help with a repo! 🚀</h4>
 
-<!-- Former header GIF now on the right -->
 <img align="right" alt="Coding" width="170" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif">
 
 <p align="left">
@@ -15,9 +13,8 @@
   
 - 🌱 I’m currently working on workshops
 - 📫 Let's connect **[LinkedIn](https://www.linkedin.com/in/jaden-mardini-783b1a1ba/)**  
-- ⚡ Computer Engineering Diploma  
-
-<!-- Languages and Tools tightly spaced -->
+- ⚡ Computer Engineering Diploma
+  
 <div align="left" style="line-height: 1.2; margin-bottom: 0;">
   <span style="font-size: 20px; font-weight: bold; display: inline-block; margin-bottom: 4px;">
     Languages and Tools:
