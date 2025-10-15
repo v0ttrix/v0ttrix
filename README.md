@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">Hey!👋 </h1>
-<h4 align="center">Hit me up if you have any questions or need help with a repo! 🚀</h4>
+<h4 align="center">Hit me up if you have any questions or need help with a repo! </h4>
 
 <img align="right" alt="Coding" width="170" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif">
 
@@ -11,7 +11,7 @@
   <img src="https://komarev.com/ghpvc/?username=vottrix&label=Profile%20views&color=0e75b6&style=flat" alt="vottrix" />
 </p>
   
-- 🌱 I’m currently working on workshops
+- 🌱 I’m currently working as a web-developer @ ClariNexus 🚀
 - 📫 Let's connect **[LinkedIn](https://www.linkedin.com/in/jaden-mardini-783b1a1ba/)**  
 - ⚡ Computer Engineering Diploma
   
