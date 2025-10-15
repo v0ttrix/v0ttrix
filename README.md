@@ -19,7 +19,7 @@
   <span style="font-size: 20px; font-weight: bold; display: inline-block; margin-bottom: 4px;">
     Languages and Tools:
   </span><br>
-  <img src="https://skillicons.dev/icons?i=c,cs,cpp,python,java,js,html,css,mysql,sqlite,docker,azure,git,autocad,arduino,raspberrypi,kali,ubuntu,unity,powershell,wordpress,linux,windows,apple,visualstudio,vscode,clion,qt&perline=9&theme=dark" style="margin-top: -6px;" />
+  <img src="https://skillicons.dev/icons?i=c,cs,cpp,python,java,js,html,css,mysql,sqlite,docker,azure,git,autocad,arduino,raspberrypi,unity,powershell,wordpress,kali,ubuntu,linux,windows,apple,visualstudio,vscode,clion,qt&perline=9&theme=dark" style="margin-top: -6px;" />
 </div>
 
 <!-- Stats Section Side by Side -->
