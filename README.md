@@ -33,10 +33,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=v0ttrix&theme=github-dark-blue&hide_border=true&hide_current_streak=true&hide_longest_streak=true" alt="GitHub Contributions" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=v0ttrix&theme=github-compact&hide_border=true" alt="GitHub Activity Graph" />
-</div>
-
 ## 🤝 Connect With Me
 
 <div align="center">
