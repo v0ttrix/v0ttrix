@@ -20,11 +20,12 @@
         <img src="https://github-readme-stats.vercel.app/api?username=v0ttrix&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" alt="v0ttrix" />
       </td>
     </tr>
+    <tr>
+      <td colspan="2">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=v0ttrix&theme=github-dark-blue&hide_border=true&hide_current_streak=true&hide_longest_streak=true" alt="GitHub Contributions" />
+      </td>
+    </tr>
   </table>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=v0ttrix&theme=github-dark-blue&hide_border=true&hide_current_streak=true&hide_longest_streak=true" alt="GitHub Contributions" />
 </div>
 
 <div align="center">
