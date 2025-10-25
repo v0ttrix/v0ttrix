@@ -32,11 +32,11 @@
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=v0ttrix&theme=darkhub&no-frame=true&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=v0ttrix&theme=onedark&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
 </div>
 
 <div align="center">
-  <img src="https://metrics.lecoq.io/v0ttrix?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&languages=1&lines=1&config.timezone=America%2FToronto" alt="Detailed Metrics" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=v0ttrix&theme=github_dark&hide_border=true" alt="Coding Stats" />
 </div>
 
 ## 🛠️ Technical Skills
