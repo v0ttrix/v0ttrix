@@ -7,7 +7,7 @@
 ## 📊 GitHub Statistics & Language Usage
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=v0ttrix&layout=compact&theme=github_dark&hide_border=true&langs_count=12&include_all_commits=true&count_private=true" alt="Language Statistics" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=v0ttrix&layout=compact&theme=github_dark&hide_border=true&langs_count=20&include_all_commits=true&count_private=true&hide=html,css" alt="All Languages Used" />
 </div>
 
 <div align="center">
