@@ -58,5 +58,5 @@
 </div>
 
 <div align="center">
-  <i>💡 Engineers don’t cry, we just recalculate 💡</i>
+  <i>💡 Engineers don’t cry, we recalculate 💡</i>
 </div>
