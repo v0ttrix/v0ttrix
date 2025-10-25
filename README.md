@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>👋 Jaden Mardini - Cybersecurity Enthusiast</h1>
+  <h1>Jaden Mardini - Cybersecurity Enthusiast👋 </h1>
 </div>
 
 <div align="center">
@@ -32,7 +32,7 @@
 </div>
 
 <div align="center">
-  <h2>🤝 Connect With Me</h2>
+  <h2>Connect With Me 🤝</h2>
 </div>
 
 <div align="center">
