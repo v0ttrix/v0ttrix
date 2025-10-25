@@ -58,5 +58,5 @@
 </div>
 
 <div align="center">
-  <i>💡 "Code is read more often than it is written. Every project should reflect professional standards." 💡</i>
+  <i>💡 “Show me your code and I’ll tell you who you are. Show me your GitHub and I’ll tell you who you pretend to be.” 💡</i>
 </div>
