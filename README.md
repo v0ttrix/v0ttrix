@@ -1,114 +1,114 @@
-# Jaden Mardini - Software Developer & Computer Engineering Student
+# 👋 Jaden Mardini - Software Developer & Computer Engineering Student
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Computer+Engineering+Student;Professional+C+Developer;Full-Stack+Web+Developer;Problem+Solver+%26+Innovator" alt="Typing SVG" />
 </div>
 
-## About Me
+## 🚀 About Me
 
 Computer Engineering student with a passion for systems programming, web development, and creating robust software solutions. Currently working as a web developer at ClariNexus while pursuing academic excellence in computer science.
 
-### Current Focus
-- **Professional Development**: Building production-ready C applications with comprehensive testing
-- **Web Development**: Full-stack development at ClariNexus
-- **Academic Excellence**: Computer Engineering Diploma program
-- **Open Source**: Contributing to educational programming projects
+### 🎯 Current Focus
+- 💼 **Professional Development**: Building production-ready C applications with comprehensive testing
+- 🌐 **Web Development**: Full-stack development at ClariNexus
+- 🎓 **Academic Excellence**: Computer Engineering Diploma program
+- 🔧 **Open Source**: Contributing to educational programming projects
 
-## Technical Expertise
+## 💻 Technical Expertise
 
-### Systems Programming
+### ⚙️ Systems Programming
 - **C/C++**: Professional-grade applications with comprehensive error handling
 - **Memory Management**: Safe allocation, deallocation, and leak prevention
 - **Data Structures**: Custom implementations of stacks, queues, trees, and graphs
 - **Algorithm Design**: Efficient sorting, searching, and optimization algorithms
 
-### Web Development
+### 🌐 Web Development
 - **Frontend**: HTML5, CSS3, JavaScript (ES6+), React
 - **Backend**: Node.js, Python, C#/.NET
 - **Databases**: MySQL, SQLite, database design and optimization
 - **DevOps**: Docker containerization, Azure cloud services
 
-### Development Tools & Practices
+### 🛠️ Development Tools & Practices
 - **Version Control**: Git workflows, branching strategies, collaborative development
 - **Build Systems**: Make, CMake, professional build automation
 - **Testing**: Unit testing, integration testing, automated test suites
 - **Documentation**: Technical writing, API documentation, code comments
 
-## Featured Projects
+## 🏆 Featured Projects
 
 ### 🏗️ [Stack ADT with String Reversal](https://github.com/v0ttrix/Stack-ADT-and-String-Reversal-C-Programming-with-Modular-Design)
 Professional C implementation demonstrating:
-- Modular design with clean interfaces
-- 76 comprehensive unit tests (100% pass rate)
-- Memory-safe operations with zero leaks
-- Professional build system and documentation
+- ✅ Modular design with clean interfaces
+- ✅ 76 comprehensive unit tests (100% pass rate)
+- ✅ Memory-safe operations with zero leaks
+- ✅ Professional build system and documentation
 
 ### 📁 [File Processing & Reservation System](https://github.com/v0ttrix/File-Processing-and-Reservation-System-C-Programming-with-Persistent-Data)
 Robust file I/O and data management system featuring:
-- Binary file persistence with atomic operations
-- Comprehensive input validation and error handling
-- Professional API design with opaque data structures
-- Cross-platform compatibility
+- 💾 Binary file persistence with atomic operations
+- 🔒 Comprehensive input validation and error handling
+- 🎯 Professional API design with opaque data structures
+- 🌍 Cross-platform compatibility
 
 ### 🔢 [Mathematical Utilities Suite](https://github.com/v0ttrix/Loops-Tables-Loops)
 Collection of mathematical computation tools:
-- Safe arithmetic with overflow protection
-- Interactive user interfaces with validation
-- Professional error handling and user feedback
-- Modular design for easy maintenance
+- 🛡️ Safe arithmetic with overflow protection
+- 🎮 Interactive user interfaces with validation
+- 📝 Professional error handling and user feedback
+- 🔧 Modular design for easy maintenance
 
 ### 🧮 [Professional Calculator](https://github.com/v0ttrix/Version-Control-GitHub-and-C-Programming-Bug-Fixes)
 Enhanced calculator application showcasing:
-- Comprehensive bug fixes and improvements
-- Mathematical domain validation
-- Safe floating-point arithmetic
-- Interactive operation loop with error recovery
+- 🐛 Comprehensive bug fixes and improvements
+- 📊 Mathematical domain validation
+- 🔢 Safe floating-point arithmetic
+- 🔄 Interactive operation loop with error recovery
 
-## Technical Skills
+## 🛠️ Technical Skills
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=c,cs,cpp,python,java,js,html,css,mysql,sqlite,docker,azure,git,arduino,raspberrypi,unity,powershell,wordpress,linux,windows,visualstudio,vscode,clion,qt&perline=8&theme=dark" />
 </div>
 
-### Programming Languages
+### 💻 Programming Languages
 - **Systems**: C, C++, Assembly
 - **Application**: C#, Java, Python
 - **Web**: JavaScript, HTML5, CSS3
 - **Scripting**: PowerShell, Bash
 
-### Development Environment
+### 🖥️ Development Environment
 - **IDEs**: Visual Studio, VS Code, CLion, Qt Creator
 - **Platforms**: Linux (Ubuntu, Kali), Windows, macOS
 - **Hardware**: Arduino, Raspberry Pi, embedded systems
 - **CAD**: AutoCAD for engineering design
 
-## Professional Experience
+## 💼 Professional Experience
 
-**Web Developer** @ ClariNexus  
+**🌐 Web Developer** @ ClariNexus  
 *Current Position*
 - Full-stack web application development
 - Database design and optimization
 - Client collaboration and project management
 - Modern web technologies and frameworks
 
-## Academic Achievements
+## 🎓 Academic Achievements
 
-**Computer Engineering Diploma**  
+**📚 Computer Engineering Diploma**  
 *In Progress*
 - Focus on systems programming and software engineering
 - Advanced coursework in data structures and algorithms
 - Hands-on experience with embedded systems and hardware
 
-## Code Quality Standards
+## ⭐ Code Quality Standards
 
 All projects demonstrate:
-- **Zero compiler warnings** with strict flags (-Wall -Wextra -Wpedantic -Werror)
-- **Memory safety** verified with Valgrind
-- **Comprehensive testing** with automated test suites
-- **Professional documentation** with clear examples
-- **Industry best practices** for maintainable code
+- ✅ **Zero compiler warnings** with strict flags (-Wall -Wextra -Wpedantic -Werror)
+- 🛡️ **Memory safety** verified with Valgrind
+- 🧪 **Comprehensive testing** with automated test suites
+- 📖 **Professional documentation** with clear examples
+- 🏭 **Industry best practices** for maintainable code
 
-## GitHub Statistics
+## 📊 GitHub Statistics
 
 <div align="center">
   <table>
@@ -127,7 +127,7 @@ All projects demonstrate:
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=v0ttrix&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
 </div>
 
-## Connect With Me
+## 🤝 Connect With Me
 
 <div align="center">
   
@@ -144,5 +144,5 @@ All projects demonstrate:
 </div>
 
 <div align="center">
-  <i>"Code is read more often than it is written. Every project should reflect professional standards."</i>
+  <i>💡 "Code is read more often than it is written. Every project should reflect professional standards." 💡</i>
 </div>
