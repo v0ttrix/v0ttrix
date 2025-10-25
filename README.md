@@ -40,7 +40,7 @@
 </div>
 
 <div align="center">
-  <h2>Connect With Me 🤝</h2>
+  <strong>🤝 Connect With Me</strong>
 </div>
 
 <div align="center">
