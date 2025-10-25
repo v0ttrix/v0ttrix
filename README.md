@@ -31,14 +31,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=v0ttrix&theme=github-compact&hide_border=true" alt="GitHub Activity Graph" />
 </div>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=v0ttrix&theme=onedark&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=v0ttrix&theme=github_dark&hide_border=true" alt="Coding Stats" />
-</div>
-
 ## 🛠️ Technical Skills
 
 <div align="center">
