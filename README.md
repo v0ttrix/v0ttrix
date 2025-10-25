@@ -1,4 +1,6 @@
-# 👋 Jaden Mardini - Cybersecurity Enthusiast 
+<div align="center">
+  <h1>👋 Jaden Mardini - Cybersecurity Enthusiast</h1>
+</div>
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Computer+Engineering+Student;Professional+C+Developer;Full-Stack+Web+Developer;Problem+Solver+%26+Innovator" alt="Typing SVG" />
@@ -7,8 +9,6 @@
 <div align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200"/>
 </div>
-
-## 📊 GitHub Statistics & Language Usage
 
 <div align="center">
   <table>
