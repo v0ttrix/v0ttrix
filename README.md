@@ -40,7 +40,7 @@
 </div>
 
 <div align="center">
-  <strong>Lets Connect & Colaborate 🤝</strong>
+  <strong>🤝 Lets Connect & Colaborate 🤝</strong>
 </div>
 
 <div align="center">
