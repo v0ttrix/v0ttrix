@@ -23,8 +23,6 @@
   </table>
 </div>
 
-## 🛠️ Technical Skills
-
 <div align="center">
   <img src="https://skillicons.dev/icons?i=c,cs,cpp,python,java,js,html,css,mysql,sqlite,docker,azure,git,arduino,raspberrypi,unity,powershell,wordpress,linux,windows,visualstudio,vscode,clion,qt&perline=8&theme=dark" />
 </div>
@@ -33,13 +31,9 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=v0ttrix&theme=github-dark-blue&hide_border=true&hide_current_streak=true&hide_longest_streak=true" alt="GitHub Contributions" />
 </div>
 
-## 🤝 Connect With Me
-
 <div align="center">
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jaden-mardini-783b1a1ba/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/v0ttrix)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
 
 </div>
 
