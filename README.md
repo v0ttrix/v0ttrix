@@ -24,7 +24,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=v0ttrix&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=v0ttrix&theme=github-dark-blue&hide_border=true&hide_current_streak=true&hide_longest_streak=true" alt="GitHub Contributions" />
 </div>
 
 <div align="center">
