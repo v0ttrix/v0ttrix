@@ -4,13 +4,9 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Computer+Engineering+Student;Professional+C+Developer;Full-Stack+Web+Developer;Problem+Solver+%26+Innovator" alt="Typing SVG" />
 </div>
 
-<img align="right" src="https://media.giphy.com/media/077i6AULCXc0FKTj9s/giphy.gif" width="120"/>
-
 <div align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200"/>
 </div>
-
-<img align="left" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="100"/>
 
 ## 📊 GitHub Statistics & Language Usage
 
@@ -27,15 +23,11 @@
   </table>
 </div>
 
-<img align="right" src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="110"/>
-
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=v0ttrix&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ## 🛠️ Technical Skills
-
-<img align="left" src="https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif" width="130"/>
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=c,cs,cpp,python,java,js,html,css,mysql,sqlite,docker,azure,git,arduino,raspberrypi,unity,powershell,wordpress,linux,windows,visualstudio,vscode,clion,qt&perline=8&theme=dark" />
@@ -55,6 +47,13 @@
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=v0ttrix&label=Profile%20Views&color=58A6FF&style=flat-square" alt="Profile Views" />
+</div>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/077i6AULCXc0FKTj9s/giphy.gif" width="120"/>
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="110"/>
+  <img src="https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif" width="130"/>
 </div>
 
 <div align="center">
