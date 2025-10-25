@@ -32,6 +32,10 @@
 </div>
 
 <div align="center">
+  <h2>🤝 Connect With Me</h2>
+</div>
+
+<div align="center">
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jaden-mardini-783b1a1ba/)
 
