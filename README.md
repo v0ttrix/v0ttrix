@@ -49,12 +49,7 @@
   <img src="https://komarev.com/ghpvc/?username=v0ttrix&label=Profile%20Views&color=58A6FF&style=flat-square" alt="Profile Views" />
 </div>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/077i6AULCXc0FKTj9s/giphy.gif" width="120"/>
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="100"/>
-  <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="110"/>
-  <img src="https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif" width="130"/>
-</div>
+<img align="right" src="https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif" width="130"/>
 
 <div align="center">
   <i>💡 "Code is read more often than it is written. Every project should reflect professional standards." 💡</i>
