@@ -4,6 +4,17 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Computer+Engineering+Student;Professional+C+Developer;Full-Stack+Web+Developer;Problem+Solver+%26+Innovator" alt="Typing SVG" />
 </div>
 
+<div align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200"/>
+  <img src="https://media.giphy.com/media/077i6AULCXc0FKTj9s/giphy.gif" width="200"/>
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="200"/>
+</div>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="300"/>
+  <img src="https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif" width="300"/>
+</div>
+
 ## 📊 GitHub Statistics & Language Usage
 
 <div align="center">
@@ -28,44 +39,6 @@
 <div align="center">
   <img src="https://skillicons.dev/icons?i=c,cs,cpp,python,java,js,html,css,mysql,sqlite,docker,azure,git,arduino,raspberrypi,unity,powershell,wordpress,linux,windows,visualstudio,vscode,clion,qt&perline=8&theme=dark" />
 </div>
-
-### 💻 Programming Languages
-- **Systems**: C, C++, Assembly
-- **Application**: C#, Java, Python
-- **Web**: JavaScript, HTML5, CSS3
-- **Scripting**: PowerShell, Bash
-
-### 🖥️ Development Environment
-- **IDEs**: Visual Studio, VS Code, CLion, Qt Creator
-- **Platforms**: Linux (Ubuntu, Kali), Windows, macOS
-- **Hardware**: Arduino, Raspberry Pi, embedded systems
-- **CAD**: AutoCAD for engineering design
-
-## 💼 Professional Experience
-
-**🌐 Web Developer** @ ClariNexus  
-*Current Position*
-- Full-stack web application development
-- Database design and optimization
-- Client collaboration and project management
-- Modern web technologies and frameworks
-
-## 🎓 Academic Achievements
-
-**📚 Computer Engineering Diploma**  
-*In Progress*
-- Focus on systems programming and software engineering
-- Advanced coursework in data structures and algorithms
-- Hands-on experience with embedded systems and hardware
-
-## ⭐ Code Quality Standards
-
-All projects demonstrate:
-- ✅ **Zero compiler warnings** with strict flags (-Wall -Wextra -Wpedantic -Werror)
-- 🛡️ **Memory safety** verified with Valgrind
-- 🧪 **Comprehensive testing** with automated test suites
-- 📖 **Professional documentation** with clear examples
-- 🏭 **Industry best practices** for maintainable code
 
 ## 🤝 Connect With Me
 
