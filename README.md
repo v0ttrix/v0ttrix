@@ -10,9 +10,13 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200"/>
 </div>
 
+<br>
+
 <div align="center">
-🌱 I'm currently working as a web-developer @ ClariNexus 🚀
+  <h3>🌱 I'm currently working as a web-developer @ ClariNexus 🚀</h3>
 </div>
+
+<br>
 
 <div align="center">
   <table>
