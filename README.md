@@ -4,6 +4,29 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Computer+Engineering+Student;Professional+C+Developer;Full-Stack+Web+Developer;Problem+Solver+%26+Innovator" alt="Typing SVG" />
 </div>
 
+## 📊 GitHub Statistics & Language Usage
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=v0ttrix&layout=compact&theme=github_dark&hide_border=true&langs_count=12&include_all_commits=true&count_private=true" alt="Language Statistics" />
+</div>
+
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=v0ttrix&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+      </td>
+      <td>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=v0ttrix&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=v0ttrix&theme=github_dark&hide_border=true&layout=compact" alt="Coding Time Stats" />
+</div>
+
 ## 🛠️ Technical Skills
 
 <div align="center">
@@ -47,25 +70,6 @@ All projects demonstrate:
 - 🧪 **Comprehensive testing** with automated test suites
 - 📖 **Professional documentation** with clear examples
 - 🏭 **Industry best practices** for maintainable code
-
-## 📊 GitHub Statistics
-
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=v0ttrix&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="GitHub Stats" />
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=v0ttrix&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Top Languages" />
-      </td>
-    </tr>
-  </table>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=v0ttrix&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
-</div>
 
 ## 🤝 Connect With Me
 
