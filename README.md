@@ -49,7 +49,9 @@
   <img src="https://komarev.com/ghpvc/?username=v0ttrix&label=Profile%20Views&color=58A6FF&style=flat-square" alt="Profile Views" />
 </div>
 
-<img align="right" src="https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif" width="130"/>
+<div align="center">
+  <img src="https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif" width="130"/>
+</div>
 
 <div align="center">
   <i>💡 "Code is read more often than it is written. Every project should reflect professional standards." 💡</i>
