@@ -11,6 +11,10 @@
 </div>
 
 <div align="center">
+🌱 I'm currently working as a web-developer @ ClariNexus 🚀
+</div>
+
+<div align="center">
   <table>
     <tr>
       <td>
