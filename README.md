@@ -58,5 +58,5 @@
 </div>
 
 <div align="center">
-  <i>💡 “Show me your code and I’ll tell you who you are. Show me your GitHub and I’ll tell you who you pretend to be.” 💡</i>
+  <i>💡 Engineers don’t cry, we just recalculate 💡</i>
 </div>
