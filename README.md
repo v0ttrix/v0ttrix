@@ -36,13 +36,7 @@
 </div>
 
 <div align="center">
-  <table>
-    <tr>
-      <td>
-        <img src="https://github-profile-trophy.vercel.app/?username=v0ttrix&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&column=4" alt="GitHub Trophies" />
-      </td>
-    </tr>
-  </table>
+  <img src="https://github-profile-trophy.vercel.app/?username=v0ttrix&theme=dark&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies" />
 </div>
 
 <div align="center">
