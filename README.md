@@ -12,7 +12,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Computer+Engineering+Student;Professional+C+Developer;Full-Stack+Web+Developer;Problem+Solver+%26+Innovator" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=IOT+Engineer;CS+Student;Professional+Developer;Full-Stack+Developer;Network+Security+Engineer;Problem+Solver+%26+Innovator" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -22,7 +22,7 @@
 <br>
 
 <div align="center">
-  <h3>🌱 I'm currently working as a web-developer @ ClariNexus 🚀</h3>
+  <h3>🌱 I'm currently Looking for Co-op During Spring 2026🚀</h3>
 </div>
 
 <br>
@@ -39,11 +39,6 @@
     </tr>
   </table>
 </div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=v0ttrix&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=58a6ff" alt="Contribution Graph" />
-</div>
-
 <div align="center">
   <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="400" alt="Cybersecurity"/>
 </div>
