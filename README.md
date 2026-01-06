@@ -1,7 +1,6 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Jaden+Mardini+-+IOT+Engineer;2nd+Yr+CS+Student;Cybersecurity+executive;Full-Stack+Developer;Network+Security+Engineer;I+<3+Problems+.................Solving" alt="Typing SVG" />
 </div>
-
 <br>
 
 <div align="center">
