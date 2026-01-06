@@ -1,13 +1,4 @@
 <div align="center">
-  <pre>
-╔══════════════════════════════════════╗
-║  ┌─┐┬ ┬┌┐ ┌─┐┬─┐  ┌─┐┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬  ║
-║  │  └┬┘├┴┐├┤ ├┬┘  └─┐├┤ │  │ │├┬┘│ │ └┬┘  ║
-║  └─┘ ┴ └─┘└─┘┴└─  └─┘└─┘└─┘└─┘┴└─┴ ┴  ┴   ║
-╚══════════════════════════════════════╝
-  </pre>
-</div>
-<div align="center">
   <h1>Jaden Mardini - The Engineer 👋 </h1>
 </div>
 
@@ -28,6 +19,12 @@
 <br>
 
 <div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTdxYWljMm84ZWhlY3l1NWwycWRmajFwbHc3a2Jhem43eGJtY3d2aiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/78XCFBGOlS6keY1Bil/giphy.gif" width="400" alt="Cybersecurity"/>
+</div>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=flutter,flask,fastapi,django,c,cs,cpp,php,postman,react,regex,python,java,js,dotnet,html,css,mysql,sqlite,docker,azure,git,arduino,raspberrypi,unity,figma,powershell,bash,wordpress,linux,windows,visualstudio,vscode,eclipse,clion,qt&perline=8&theme=dark" />
+</div>
+<div align="center">
   <table>
     <tr>
       <td>
@@ -38,12 +35,6 @@
       </td>
     </tr>
   </table>
-</div>
-<div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTdxYWljMm84ZWhlY3l1NWwycWRmajFwbHc3a2Jhem43eGJtY3d2aiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/78XCFBGOlS6keY1Bil/giphy.gif" width="400" alt="Cybersecurity"/>
-</div>
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,flask,fastapi,django,c,cs,cpp,php,postman,react,regex,python,java,js,dotnet,html,css,mysql,sqlite,docker,azure,git,arduino,raspberrypi,unity,figma,powershell,bash,wordpress,linux,windows,visualstudio,vscode,eclipse,clion,qt&perline=8&theme=dark" />
 </div>
 <div align="center">
   <table>
@@ -80,4 +71,13 @@
 
 <div align="center">
   <i>💡 Engineers don’t cry, we recalculate 💡</i>
+</div>
+<div align="center">
+  <pre>
+╔══════════════════════════════════════╗
+║  ┌─┐┬ ┬┌┐ ┌─┐┬─┐  ┌─┐┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬  ║
+║  │  └┬┘├┴┐├┤ ├┬┘  └─┐├┤ │  │ │├┬┘│ │ └┬┘  ║
+║  └─┘ ┴ └─┘└─┘┴└─  └─┘└─┘└─┘└─┘┴└─┴ ┴  ┴   ║
+╚══════════════════════════════════════╝
+  </pre>
 </div>
