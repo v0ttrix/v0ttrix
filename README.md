@@ -36,7 +36,24 @@
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=v0ttrix&theme=onedark&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+  <img src="https://media.giphy.com/media/077i6AULCXc0FKTj9s/giphy.gif" width="400" alt="Cybersecurity"/>
+</div>
+
+<div align="center">
+  <pre>
+    ╔══════════════════════════════════════╗
+    ║  🛡️  CYBERSECURITY ENTHUSIAST  🛡️   ║
+    ║                                      ║
+    ║  ┌─┐┬ ┬┌┐ ┌─┐┬─┐  ┌─┐┌─┐┌─┐┬ ┬┬─┐┬┌┬┐┬ ┬  ║
+    ║  │  └┬┘├┴┐├┤ ├┬┘  └─┐├┤ │  │ │├┬┘│ │ └┬┘  ║
+    ║  └─┘ ┴ └─┘└─┘┴└─  └─┘└─┘└─┘└─┘┴└─┴ ┴  ┴   ║
+    ║                                      ║
+    ║    [●] Penetration Testing           ║
+    ║    [●] Vulnerability Assessment      ║
+    ║    [●] Secure Code Development       ║
+    ║    [●] Network Security Analysis     ║
+    ╚══════════════════════════════════════╝
+  </pre>
 </div>
 
 <div align="center">
