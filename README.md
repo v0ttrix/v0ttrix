@@ -36,7 +36,7 @@
 </div>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/077i6AULCXc0FKTj9s/giphy.gif" width="400" alt="Cybersecurity"/>
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="400" alt="Cybersecurity"/>
 </div>
 
 <div align="center">
