@@ -25,7 +25,21 @@
         <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=v0ttrix&theme=dark&hide_border=true&langs_count=20&layout=donut&include_all_commits=true&count_private=true&exclude_repo=v0ttrix"/>
       </td>
       <td>
-        <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=v0ttrix&show_icons=true&theme=dark&hide_border=true" alt="v0ttrix" />
+        <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=v0ttrix&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true" alt="v0ttrix" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=v0ttrix&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=58a6ff" alt="Contribution Graph" />
+</div>
+
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-profile-trophy.vercel.app/?username=v0ttrix&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&column=4" alt="GitHub Trophies" />
       </td>
     </tr>
   </table>
@@ -36,7 +50,22 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=v0ttrix&theme=github-dark-blue&hide_border=true&hide_current_streak=true&hide_longest_streak=true" alt="GitHub Contributions" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=v0ttrix&theme=dark&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" alt="GitHub Streak Stats" />
+</div>
+
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=v0ttrix&theme=github_dark" alt="Profile Summary" />
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=v0ttrix&theme=github_dark&utcOffset=8" alt="Productive Time" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 <div align="center">
