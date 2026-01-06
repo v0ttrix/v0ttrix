@@ -22,11 +22,7 @@
   </table>
 </div>
 <p align="center">
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=JGreyScales&theme=dark"/></a>
-  <a> <img src="https://github-readme-stats-fast.vercel.app/api?username=v0ttrix&show_icons=true&theme=dark"/></a>
-</p>
-<p align="center">
- <a> <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?usernamev0ttrix&hide_progress=false&lang_count=10&layout=donut-vertical&theme=dark" alt="Github stats"/></a>
+ <a> <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=v0ttrix&hide_progress=false&lang_count=10&layout=donut-vertical&theme=dark" alt="Github stats"/></a>
 
 </p>
 <div align="center">
