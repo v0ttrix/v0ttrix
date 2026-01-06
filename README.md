@@ -32,7 +32,7 @@
 </div>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,flask,fastapi,django,c,cs,cpp,php,postman,react,regex,streamlit,python,java,js,dotnet,html,css,mysql,sqlite,docker,azure,git,arduino,raspberrypi,unity,figma,powershell,bash,wordpress,linux,windows,visualstudio,vscode,clion,qt&perline=8&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=flutter,flask,fastapi,django,c,cs,cpp,php,postman,react,regex,python,java,js,dotnet,html,css,mysql,sqlite,docker,azure,git,arduino,raspberrypi,unity,figma,powershell,bash,wordpress,linux,windows,visualstudio,vscode,clion,qt&perline=8&theme=dark" />
 </div>
 
 <div align="center">
