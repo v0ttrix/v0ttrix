@@ -50,11 +50,6 @@
 <div align="center">
   <img src="https://skillicons.dev/icons?i=flutter,flask,fastapi,django,c,cs,cpp,php,postman,react,regex,python,java,js,dotnet,html,css,mysql,sqlite,docker,azure,git,arduino,raspberrypi,unity,figma,powershell,bash,wordpress,linux,windows,visualstudio,vscode,eclipse,clion,qt&perline=8&theme=dark" />
 </div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=v0ttrix&theme=dark&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" alt="GitHub Streak Stats" />
-</div>
-
 <div align="center">
   <table>
     <tr>
