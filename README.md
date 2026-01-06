@@ -22,7 +22,7 @@
   <table>
     <tr>
       <td>
-        <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=v0ttrix&theme=dark&hide_border=true&langs_count=20&layout=donut&size_weight=0.5&count_weight=0.5"/>
+        <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=v0ttrix&theme=dark&hide_border=true&langs_count=20&layout=donut&include_all_commits=true&count_private=true&exclude_repo=v0ttrix"/>
       </td>
       <td>
         <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=v0ttrix&show_icons=true&theme=dark&hide_border=true" alt="v0ttrix" />
