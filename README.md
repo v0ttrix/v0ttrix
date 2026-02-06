@@ -5,7 +5,7 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTdxYWljMm84ZWhlY3l1NWwycWRmajFwbHc3a2Jhem43eGJtY3d2aiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/78XCFBGOlS6keY1Bil/giphy.gif" width="400" alt="Cybersecurity"/>
 </div>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=elasticsearch,nginx,flutter,flask,fastapi,nodejs,django,c,cs,cpp,rust,php,postman,react,selenium,regex,python,java,js,dotnet,html,css,postgres,mysql,sqlite,docker,azure,git,arduino,raspberrypi,unity,figma,powershell,bash,wordpress,kali,linux,windows,r,visualstudio,vscode,eclipse,phpstorm,pycharm,idea,clion,qt&perline=8&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=elasticsearch,nginx,flutter,flask,fastapi,nodejs,django,rust,c,cs,cpp,php,postman,react,selenium,regex,python,java,js,dotnet,html,css,postgres,mysql,sqlite,docker,azure,git,arduino,raspberrypi,unity,figma,powershell,bash,wordpress,kali,linux,windows,r,visualstudio,vscode,eclipse,phpstorm,pycharm,idea,clion,qt&perline=8&theme=dark" />
 </div>
 <div align="center">
   <table>
